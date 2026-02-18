@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I am a Business Informatics student (B.Sc.) currently in my 4th semester.
 
-<!--
-**sammanmohammed/sammanmohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am particularly interested in software development, system optimization and process automation.
 
-Here are some ideas to get you started:
+Through my academic projects, I gained experience in:
+- Java (Object-Oriented Programming)
+- JavaFX (GUI development)
+- JPA and relational databases
+- 3-layer architecture
+- Component-based architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building structured systems and improving existing processes.
+
+Currently improving my skills in backend development and software architecture.
